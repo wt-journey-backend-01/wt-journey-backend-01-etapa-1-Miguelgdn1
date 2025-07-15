@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/wt-journey-backend-01/wt-journey-backend-01-etapa-1-Miguelgdn1/issues"
   },
-  "homepage": "https://github.com/wt-journey-backend-01/wt-journey-backend-01-etapa-1-Miguelgdn1#readme"
+  "homepage": "https://github.com/wt-journey-backend-01/wt-journey-backend-01-etapa-1-Miguelgdn1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
